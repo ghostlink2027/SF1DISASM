@@ -178,7 +178,7 @@
 #split	0x37856,0x37876,data/graphics/portraits/portrait49_palette.bin
 #split	0x2D242,0x2D4C2,data/graphics/portraits/portrait00.bin
 #split	0x2D4FA,0x2D824,data/graphics/portraits/portrait01.bin
-#split	0x2D824,0x2DAE0,data/graphics/portraits/portrait02.bin
+#split	0x2D860,0x2DAE0,data/graphics/portraits/portrait02.bin
 #split	0x2DB1C,0x2DDCE,data/graphics/portraits/portrait03.bin
 #split	0x2DE12,0x2E15A,data/graphics/portraits/portrait04.bin
 #split	0x2E196,0x2E4EC,data/graphics/portraits/portrait05.bin
