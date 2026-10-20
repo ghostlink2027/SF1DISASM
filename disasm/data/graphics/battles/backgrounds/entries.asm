@@ -4,6 +4,20 @@
 pt_Backgrounds:
 		dc.l tiles_Background00_0
 		dc.l tiles_Background00_1
+		dc.l tiles_Background00_0
+		dc.l tiles_Background00_1
+		dc.l tiles_Background00_0
+		dc.l tiles_Background00_1
+		dc.l tiles_Background00_0
+		dc.l tiles_Background00_1
+		dc.l tiles_Background00_0
+		dc.l tiles_Background00_1
+		dc.l tiles_Background00_0
+		dc.l tiles_Background00_1
+		dc.l tiles_Background00_0
+		dc.l tiles_Background00_1
+		dc.l tiles_Background00_0
+		dc.l tiles_Background00_1
 		dc.l tiles_Background01_0
 		dc.l tiles_Background01_1
 		dc.l tiles_Background02_0
@@ -22,6 +36,8 @@ pt_Backgrounds:
 		dc.l tiles_Background08_1
 		dc.l tiles_Background09_0
 		dc.l tiles_Background09_1
+		dc.l tiles_Background10_0
+		dc.l tiles_Background10_1
 		dc.l tiles_Background10_0
 		dc.l tiles_Background10_1
 		dc.l tiles_Background11_0
@@ -50,6 +66,8 @@ pt_Backgrounds:
 		dc.l tiles_Background22_1
 		dc.l tiles_Background23_0
 		dc.l tiles_Background23_1
+		dc.l tiles_Background24_0
+		dc.l tiles_Background24_1
 		dc.l tiles_Background24_0
 		dc.l tiles_Background24_1
 		dc.l tiles_Background25_0
