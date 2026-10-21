@@ -102,7 +102,6 @@ AllyBattlesprite03:
 @Sprite03_OffsetTable:
 		dc.w @Sprite03_Palettes-@Sprite03_OffsetTable
 		dc.w @Sprite03_Frame0-@Sprite03_OffsetTable
-		dc.w @Sprite03_Frame0-@Sprite03_OffsetTable
 		dc.w @Sprite03_Frame1-@Sprite03_OffsetTable
 		dc.w @Sprite03_Frame2-@Sprite03_OffsetTable
 		dc.w @Sprite03_Frame3-@Sprite03_OffsetTable
@@ -693,4 +692,3 @@ AllyBattlesprite33:
 		incbin "data/graphics/battles/battlesprites/allies/allybattlesprite33_1.bin"
 @Sprite33_Frame2:
 		incbin "data/graphics/battles/battlesprites/allies/allybattlesprite33_2.bin"
-		
