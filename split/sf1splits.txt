@@ -1043,8 +1043,8 @@
 #split	0x149F14,0x14A1E6,data/graphics/battles/battlesprites/allies/allybattlesprite09_2.bin
 #split	0x14A1E6,0x14A4FE,data/graphics/battles/battlesprites/allies/allybattlesprite09_3.bin
 #split	0x14A52A,0x14AA74,data/graphics/battles/battlesprites/allies/allybattlesprite10_0.bin
-#split	0x14AA74,0x14AD86,data/graphics/battles/battlesprites/allies/allybattlesprite10_1.bin
-#split	0x14AD86,0x14B512,data/graphics/battles/battlesprites/allies/allybattlesprite10_2.bin
+#split	0x14AA74,0x14AF9E,data/graphics/battles/battlesprites/allies/allybattlesprite10_1.bin
+#split	0x14AF9E,0x14B512,data/graphics/battles/battlesprites/allies/allybattlesprite10_2.bin
 #split	0x14B59E,0x14B99C,data/graphics/battles/battlesprites/allies/allybattlesprite11_0.bin
 #split	0x14B99C,0x14BD0C,data/graphics/battles/battlesprites/allies/allybattlesprite11_1.bin
 #split	0x14BD0C,0x14C126,data/graphics/battles/battlesprites/allies/allybattlesprite11_2.bin
