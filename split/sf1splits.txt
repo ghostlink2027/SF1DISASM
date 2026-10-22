@@ -872,7 +872,7 @@
 #split	0x1079E8,0x107A28,data/graphics/battles/battlesprites/enemies/enemybattlesprite09_palettes.bin
 #split	0x10829A,0x10831A,data/graphics/battles/battlesprites/enemies/enemybattlesprite10_palettes.bin
 #split	0x108AD2,0x108B52,data/graphics/battles/battlesprites/enemies/enemybattlesprite11_palettes.bin
-#split	0x109728,0x1099C2,data/graphics/battles/battlesprites/enemies/enemybattlesprite12_palettes.bin
+#split	0x1096A8,0x109728,data/graphics/battles/battlesprites/enemies/enemybattlesprite12_palettes.bin
 #split	0x10A160,0x10A1E0,data/graphics/battles/battlesprites/enemies/enemybattlesprite13_palettes.bin
 #split	0x10AB30,0x10AB70,data/graphics/battles/battlesprites/enemies/enemybattlesprite14_palettes.bin
 #split	0x10B9A2,0x10BA22,data/graphics/battles/battlesprites/enemies/enemybattlesprite15_palettes.bin
@@ -949,9 +949,10 @@
 #split	0x108E1E,0x109148,data/graphics/battles/battlesprites/enemies/enemybattlesprite11_1.bin
 #split	0x109148,0x1093FA,data/graphics/battles/battlesprites/enemies/enemybattlesprite11_2.bin
 #split	0x1093FA,0x10969C,data/graphics/battles/battlesprites/enemies/enemybattlesprite11_3.bin
-#split	0x1099C2,0x109BD4,data/graphics/battles/battlesprites/enemies/enemybattlesprite12_0.bin
-#split	0x109BD4,0x109E00,data/graphics/battles/battlesprites/enemies/enemybattlesprite12_1.bin
-#split	0x109E00,0x10A154,data/graphics/battles/battlesprites/enemies/enemybattlesprite12_2.bin
+#split	0x109728,0x1099C2,data/graphics/battles/battlesprites/enemies/enemybattlesprite12_0.bin
+#split	0x1099C2,0x109BD4,data/graphics/battles/battlesprites/enemies/enemybattlesprite12_1.bin
+#split	0x109BD4,0x109E00,data/graphics/battles/battlesprites/enemies/enemybattlesprite12_2.bin
+#split	0x109E00,0x10A154,data/graphics/battles/battlesprites/enemies/enemybattlesprite12_3.bin
 #split	0x10A1E0,0x10A502,data/graphics/battles/battlesprites/enemies/enemybattlesprite13_0.bin
 #split	0x10A502,0x10A7EC,data/graphics/battles/battlesprites/enemies/enemybattlesprite13_1.bin
 #split	0x10A7EC,0x10AB24,data/graphics/battles/battlesprites/enemies/enemybattlesprite13_2.bin
