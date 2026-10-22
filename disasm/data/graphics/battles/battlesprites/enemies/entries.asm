@@ -293,10 +293,9 @@ EnemyBattlesprite11:
 		incbin "data/graphics/battles/battlesprites/enemies/enemybattlesprite11_3.bin"
 
 EnemyBattlesprite12:
-		dc.w $0A					; Frames between idle animations
+		dc.w $08					; Frames between idle animations
 @Sprite12_OffsetTable:
 		dc.w @Sprite12_Palettes-@Sprite12_OffsetTable
-		dc.w @Sprite12_Frame0-@Sprite12_OffsetTable
 		dc.w @Sprite12_Frame0-@Sprite12_OffsetTable
 		dc.w @Sprite12_Frame1-@Sprite12_OffsetTable
 		dc.w @Sprite12_Frame2-@Sprite12_OffsetTable
@@ -309,6 +308,8 @@ EnemyBattlesprite12:
 		incbin "data/graphics/battles/battlesprites/enemies/enemybattlesprite12_1.bin"
 @Sprite12_Frame2:
 		incbin "data/graphics/battles/battlesprites/enemies/enemybattlesprite12_2.bin"
+@Sprite12_Frame3:
+		incbin "data/graphics/battles/battlesprites/enemies/enemybattlesprite12_3.bin"
 
 EnemyBattlesprite13:
 		dc.w $0A					; Frames between idle animations
