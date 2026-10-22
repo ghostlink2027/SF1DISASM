@@ -300,6 +300,7 @@ EnemyBattlesprite12:
 		dc.w @Sprite12_Frame0-@Sprite12_OffsetTable
 		dc.w @Sprite12_Frame1-@Sprite12_OffsetTable
 		dc.w @Sprite12_Frame2-@Sprite12_OffsetTable
+		dc.w @Sprite12_Frame3-@Sprite12_OffsetTable
 @Sprite12_Palettes:
 		incbin "data/graphics/battles/battlesprites/enemies/enemybattlesprite12_palettes.bin"
 @Sprite12_Frame0:
