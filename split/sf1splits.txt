@@ -1094,7 +1094,7 @@
 #split	0x1625EA,0x162986,data/graphics/battles/platforms/platform02.bin
 #split	0x16298E,0x162D52,data/graphics/battles/platforms/platform03.bin
 #split	0x162D5A,0x162FAC,data/graphics/battles/platforms/platform04.bin
-#split	0x162FA4,0x1633B6,data/graphics/battles/platforms/platform05.bin
+#split	0x162FB4,0x1633B6,data/graphics/battles/platforms/platform05.bin
 #split	0x1633BE,0x16370C,data/graphics/battles/platforms/platform06.bin
 #split	0x163714,0x163A0A,data/graphics/battles/platforms/platform07.bin
 #split	0x163A12,0x163CC0,data/graphics/battles/platforms/platform08.bin
